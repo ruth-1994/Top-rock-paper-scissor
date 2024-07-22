@@ -41,7 +41,7 @@ function playGame() {
       }
     }
   
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 5; i++)//to play the game in five round {
       playRound();
     }
   
